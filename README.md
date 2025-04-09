@@ -1,33 +1,95 @@
-<h1 align="center">Hi 👋, I'm Truong Vu Linh</h1>
-<h3 align="center">Motivated developer with excellent English communication skills, honed during a two-month internship at mgm Technologies in Vietnam. I have strong hands-on experience in Front-end development using React TypeScript and UX/UI design with Figma. Additionally, I’ve contributed to Back-end development by creating APIs with Spring Boot. My technical expertise includes deploying production environments with Docker, Docker Compose, Jenkins, and Traefik. I also manage my own personal Linux VPS and handle CI/CD pipelines for personal projects. With a solid background in Scrum projects, I’m passionate about using my skills to drive innovative solutions and contribute effectively to dynamic, collaborative teams.</h3>
+# <div align="center">Hey there! I'm Truong Vu Linh 👋</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vulinhnopro2704&label=Profile%20views&color=0e75b6&style=flat" alt="vulinhnopro2704" /> </p>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=vulinhnopro2704&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
-- 🔭 I’m currently working on [VocabJoy](https://github.com/vulinhnopro2704/VocabJoy)
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **ReactJS, React Native, Flutter and Java Spring Boot**
+Frontend Developer passionate about creating responsive and user-friendly web experiences. Currently focused on React/NextJS development with a background in UI/UX design. I've gained valuable experience during my internship at mgm Technologies, where I worked on both frontend and backend projects. I enjoy tackling challenging problems and continuously expanding my technical skills.
 
-- 👯 I’m looking to collaborate on [VocabJoy Website](https://github.com/vulinhnopro2704/VocabJoy-Web)
+-   🔭 Building [VocabJoy](https://github.com/vulinhnopro2704) - A language learning application
+-   📱 Currently working on Flutter projects for cross-platform mobile development
+-   🌱 Deepening my expertise in **React, TypeScript, and NextJS**
+-   ☁️ Eager to learn and explore **AWS** cloud technologies
+-   💼 Experience with **Agile/Scrum** methodologies
+-   🚀 Managing CI/CD pipelines and deployments with **Docker and Jenkins**
+-   📫 Reach me at: **vulinhtruong79@gmail.com**
+-   ⚡ Fun fact: **Shiba Inu enthusiast - Small size, big heart!**
 
-- 💬 Ask me about **React and React Native**
+## 🎓 Education
 
-- 📫 How to reach me **vulinhtruong79@gmail.com**
+-   🏫 Bachelor of Information Technology, K22 Class
+-   🏢 Da Nang University of Technology, University of Da Nang
+-   📚 Currently pursuing my degree with focus on software development
 
-- ⚡ Fun fact **Shiba Inu: Small size, big heart!**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vulinhtruong2704/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vulinhtruong2704/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vulinh.truong.3150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vulinh.truong.3150" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/vlinhtrng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/vlinhtrng" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vulinhnopro2704/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vulinhnopro2704/" height="30" width="40" /></a>
-</p>
+### Frontend
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vulinhnopro2704&show_icons=true&locale=en&layout=compact" alt="vulinhnopro2704" /></p>
+### Backend & Others
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vulinhnopro2704&show_icons=true&locale=en" alt="vulinhnopro2704" /></p>
+![Java Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vulinhnopro2704&" alt="vulinhnopro2704" /></p>
+### Design
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat)
+
+## 🔗 Connect With Me
+
+<div align="left">
+    <a href="https://linkedin.com/in/vulinhtruong2704" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://facebook.com/vulinh.truong.3150" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://www.behance.net/vlinhtrng" target="_blank">
+        <img src="https://img.shields.io/badge/Behance-%231769FF.svg?logo=behance&logoColor=white" alt="Behance" />
+    </a>
+    <a href="https://leetcode.com/u/vulinhnopro2704" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href="https://codeforces.com/profile/lvtruong" target="_blank">
+        <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+</div>
+
+## 💻 Competitive Programming
+
+Although I'm early in my competitive programming journey, I'm passionate about algorithmic problem-solving and continuously improving my skills. Competitive programming helps me enhance my logical thinking and coding efficiency.
+
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/vulinhnopro2704?theme=dark&font=Noto%20Sans" alt="LeetCode Stats" />
+    <br><br>
+    <img src="https://codeforces-stats-api.herokuapp.com/stats?username=lvtruong&theme=dark" alt="Codeforces Stats" onerror="this.style.display='none'" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulinhnopro2704&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=vulinhnopro2704&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vulinhnopro2704&theme=react&hide_border=false" alt="GitHub Streak" />
+</div>
